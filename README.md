@@ -6,6 +6,8 @@ a informação necessária
 
 ** projeto em etapa de rascunho, ainda serão implementados os diagramas necessários e postados aqui**
 
+link do projeto: https://1drv.ms/u/s!AlFdlceD9r69luFS2N2s3iIyA6SAfQ?e=VBEioj
+
 Android e IOS e Web para gerenciamento.
 desenvolvido com Flutter em linguagem Dart.
 banco de dados Firebase.
