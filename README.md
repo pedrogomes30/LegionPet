@@ -1,8 +1,8 @@
 # Legion Pet
 
 
-Esta aplicação tem por objetivo disponibilizar funções necessárias para que diminua a negligencia nos tutores de animais seus animais de estimação e facilitando
-a informação necessária 
+Esta aplicação tem por objetivo disponibilizar funções necessárias para que diminua a negligencia nos tutores e facilitando
+a informação necessária ao cuidado e o acesso a serviços necessários aos seus animais
 
 ** projeto em etapa de rascunho, ainda serão implementados os diagramas necessários e postados aqui**
 
