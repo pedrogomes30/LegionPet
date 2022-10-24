@@ -1,6 +1,5 @@
 # Legion Pet 
 
-**projeto não iniciado**
 
 
 Esta aplicação tem por objetivo disponibilizar funções necessárias para que diminua a negligencia nos tutores e facilitando
